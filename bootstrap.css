@@ -1,0 +1,21 @@
+.custom-row{
+    border-width: 1px;
+    border-color: black;
+    border-width: 2px;
+    background-color: lightblue;
+}
+
+.custom-col{
+    border-style: dotted;
+    border-color: black;
+    background-color: lightcoral;
+    border-width: 3px;
+    cursor: pointer;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.custom-btn{
+    margin-top: 10px;
+    
+}
